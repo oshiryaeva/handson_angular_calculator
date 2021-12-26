@@ -1,0 +1,16 @@
+label {
+  margin: 1px 10px 10px 10px;
+  display: inline-block;
+}
+
+button {
+  border-width: 1px;
+  width: 50px;
+  border-radius: 5px;
+}
+
+select {
+  width: 50px;
+  border-radius: 5px;
+}
+

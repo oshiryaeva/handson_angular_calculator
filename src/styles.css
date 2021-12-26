@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+#input3 {
+  color: gainsboro;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  width: 50px;
+}
+
+.inputs {
+  width: 50px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.inputBlock {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: gainsboro;
+  color: rgb(100, 100, 100);
+}
+
+h1 {
+  font-weight: lighter;
+  color: #b00000;
+}
+
+.label {
+  margin: 3px 10px;
+  display: inline-block;
+}
